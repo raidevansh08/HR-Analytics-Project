@@ -14,8 +14,7 @@ the promotion process, we need to predict the qualified candidates for promotion
 
 ## Data source:
 Website: Analytics Vidhya
-URL: https://datahack.analyticsvidhya.com/contest/wns-analytics-hackathon-2018-
-1/#ProblemStatement
+URL: https://datahack.analyticsvidhya.com/contest/wns-analytics-hackathon-2018-1/#ProblemStatement
 
 ## Methodology:
 1. Perform exploratory data analysis to understand the patterns of each variable.
